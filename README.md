@@ -13,6 +13,13 @@ The project was given as homework for the lesson ***CS:321*** of University of T
 </p>
 
 
+## Code info
+
+MUX 4-to-1.vhd is the main code where we connect all the components (Decoder, AND gates, OR gate) and make the MUX that is asked.
+
+### Tech Stack
+
+VHDL
 
 
 
