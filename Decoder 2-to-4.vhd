@@ -12,7 +12,7 @@ entity decoder is
         Y0: out std_logic;  -- ( Ή Y: 3 down to 0 )
         Y1: out std_logic;
         Y2: out std_logic;
-        Y3: out std_logic;
+        Y3: out std_logic
     );
 end decoder;
 
