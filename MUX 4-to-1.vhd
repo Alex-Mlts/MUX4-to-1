@@ -9,7 +9,7 @@ entity mux4_1 is
         W0,W1,W2,W3 : in std_logic;
         S0,S1: in std_logic;
         EN: in std_logic;
-        F: out std_logic;
+        F: out std_logic
     );
 end mux4_1;
  
@@ -22,7 +22,7 @@ architecture behavioral of mux4_1 is
     (
         S: in std_logic (1 down to 0);
         EN: in std_logic;
-        Y: out std_logic (3 down to 0);
+        Y: out std_logic (3 down to 0)
     );
     end component;
 
@@ -31,7 +31,7 @@ architecture behavioral of mux4_1 is
     (
         W: in std_logic;
         Y: in std_logic;
-        X: out std_logic;
+        X: out std_logic
     );
     end component;
 
@@ -39,7 +39,7 @@ architecture behavioral of mux4_1 is
     port
     (
         X: in std_logic;
-        F: out std_logic;
+        F: out std_logic
     );
     end component;
 
