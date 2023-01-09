@@ -8,7 +8,7 @@ entity and_gate is
     (
         W0: in std_logic;
         Y0: in std_logic;
-        X0: out std_logic;
+        X0: out std_logic
     );
 end and_gate;
 
