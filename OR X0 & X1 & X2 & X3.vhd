@@ -10,7 +10,7 @@ entity or_gate is
         X1: in std_logic;
         X2: in std_logic;
         X3: in std_logic;
-        F: out std_logic;
+        F: out std_logic
     );
 end or_gate;
 
