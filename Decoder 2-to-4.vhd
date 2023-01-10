@@ -6,10 +6,10 @@ use ieee.std_logic_1164.all;
 entity decoder is
     port 
     (
-        S0: in std_logic;  -- ( Ή W: 1 down to 0 )
+        S0: in std_logic;  -- ( Or S: 1 down to 0 )
         S1: in std_logic;
         EN: in std_logic;
-        Y0: out std_logic;  -- ( Ή Y: 3 down to 0 )
+        Y0: out std_logic;  -- ( Or Y: 3 down to 0 )
         Y1: out std_logic;
         Y2: out std_logic;
         Y3: out std_logic
