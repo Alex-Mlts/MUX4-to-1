@@ -4,7 +4,7 @@ Implementing a 4-to-1 MUX as seen in the following circuit, in **VHDL** code *(s
 
 ----
 
->**DISCLAIMER: The project might not be 100% correct! The project's correction hasn't been made and therefore parts of the code and the implementation of it might not be correct.**
+>**DISCLAIMER: The project might not be 100% correct! The exact solution might differ. This is just a personal try in a description language I haven't dived much into.**
 
 ----
 <p align="center">
