@@ -3,9 +3,8 @@
 Implementing a 4-to-1 MUX as seen in the following circuit, in **VHDL** code *(structual description)*, with the help of a 2-to-4 decoder and the needed AND/OR gates.
 
 ----
-The project was given as homework for the lesson ***CS:321*** of University of Thessaly - Computer science & telecommunications 🎓.
 
->**DISCLAIMER: The project might not be 100% correct!**
+>**DISCLAIMER: The project might not be 100% correct! The project's correction hasn't been made and therefore parts of the code and the implementation of it might not be correct.**
 
 ----
 <p align="center">
@@ -20,6 +19,10 @@ MUX 4-to-1.vhd is the main code where we connect all the components (Decoder, AN
 ### Tech Stack
 
 VHDL
+
+## Acknowledgments
+
+The project was given as homework for the lesson ***CS:321*** of University of Thessaly - Computer science & telecommunications 🎓.
 
 
 
